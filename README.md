@@ -26,9 +26,3 @@ The Hotel Reservation System is a web-based application designed to streamline t
 - **Backend**: Node.js, Express.js
 - **Database**: PostgreSQL
 - **Version Control**: Git, GitHub
-
-## Project Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<username>/hotel-reservation-system.git
-   cd hotel-reservation-system

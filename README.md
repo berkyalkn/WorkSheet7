@@ -26,3 +26,9 @@ The Hotel Reservation System is a web-based application designed to streamline t
 - **Backend**: Node.js, Express.js
 - **Database**: PostgreSQL
 - **Version Control**: Git, GitHub
+
+## Target Audience
+This project is designed for:
+- Travelers looking for an easy way to book hotel rooms online.
+- Hotel administrators seeking a streamlined solution for managing room availability and reservations.
+- Developers who want to learn more about full-stack development and database integration.

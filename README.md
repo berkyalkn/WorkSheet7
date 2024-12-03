@@ -32,3 +32,17 @@ This project is designed for:
 - Travelers looking for an easy way to book hotel rooms online.
 - Hotel administrators seeking a streamlined solution for managing room availability and reservations.
 - Developers who want to learn more about full-stack development and database integration.
+
+## Future Enhancements
+- **Advanced Search Filters**:
+  - Filter rooms by amenities (e.g., Wi-Fi, pool access, breakfast included).
+  - Search by user ratings or price range.  
+- **Loyalty Programs**:
+  -  Implement a rewards system for frequent users.
+  -  Offer discounts and special deals to loyal customers.
+- **Virtual Tour of Rooms**:
+  -  Integrate 360-degree virtual room tours to give users an immersive experience before booking.
+  -  Use augmented reality (AR) to help users visualize the rooms.
+- **Customer Feedback and Reviews**:
+  -  Enable users to leave detailed feedback on their stay.
+  - Allow prospective customers to filter rooms based on reviews and ratings.
